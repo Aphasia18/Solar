@@ -50,20 +50,20 @@ body {
 
 #first-planet { 
     animation: firstPlanetRender 16s infinite linear;
-    background-image: url(/img/planet1.svg);
+    background-image: url(img/planet1.svg);
     background-size: contain;
 }
 
 
 #second-planet {
-    background-image: url(/img/planet2.svg);
+    background-image: url(img/planet2.svg);
     background-size: contain;
     animation: secondPlanetRender 16s infinite linear;
 }
 
 
 #third-planet {
-    background-image: url(/img/planet3.svg);
+    background-image: url(img/planet3.svg);
     background-size: contain;
     animation: thirdPlanetRender 16s infinite linear;
 }
